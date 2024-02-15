@@ -1,6 +1,7 @@
 ## 2-14:
 
-![Example Image](images/combined.png)
+![](images/feb14.jpg)
+![](images/feb14-2.jpg)
 
 ### Print Settings:
 Layer Height: 0.12 mm  
