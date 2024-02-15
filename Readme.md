@@ -5,7 +5,7 @@
 </div>
 
 ### Changes:
-- Lens Bracked width fixed (140mm now, as it should be)
+- Lens bracket width fixed
 - Light mount height offset increased from 0 to 15mm
 - Infill Density changed from 100% to 10%
 
