@@ -33,6 +33,17 @@ Build Plate Adhesion Type: None
     <img src="images/feb14-2.jpg" alt="Image 2" style="height: 200px;">
 </div>
 
+### Notes:
+- Lens bracket width was wrong; should have measured in CAD before printing. Oops.
+- Light mount moved up 15mm to properly center led in the lens
+- Rigidity is good. Trying 10% infill next print to save on time; struts + mount points will still be solid b/c of the high wall count, so should be ok.
+- Adhesion is good. Couldn't fit a raft b/c of the size, and was concerned. All good though, so good.
+
+### Changes / Updates for Next Print:
+- Lens Bracked width fixed (140mm now, as it should be)
+- Light mount height offset increased from 0 to 15mm
+- Infill Density changed from 100% to 10%
+
 ### Print Settings:
 Layer Height: 0.12 mm  
 Wall Thickness: 1.2 mm  
@@ -54,14 +65,3 @@ Support Placement: Everywhere
 Support Overhang Angle: 59.0 Deg.  
 Support Horizontal Expansion: 0.8 mm  
 Build Plate Adhesion Type: None  
-
-### Notes:
-- Lens bracket width was wrong; should have measured in CAD before printing. Oops.
-- Light mount moved up 15mm to properly center led in the lens
-- Rigidity is good. Trying 10% infill next print to save on time; struts + mount points will still be solid b/c of the high wall count, so should be ok.
-- Adhesion is good. Couldn't fit a raft b/c of the size, and was concerned. All good though, so good.
-
-### Changes / Updates for Next Print:
-- Lens Bracked width fixed (140mm now, as it should be)
-- Light mount height offset increased from 0 to 15mm
-- Infill Density changed from 100% to 10%
