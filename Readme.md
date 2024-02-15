@@ -1,7 +1,7 @@
 ## 2-15:
 
 <div style="display: inline-block;">
-    <img src="images/feb15.jpg" alt="Image 1" style="height: 200px; margin-right: 10px;">
+    <img src="images/feb15.png" alt="Image 1" style="height: 200px; margin-right: 10px;">
 </div>
 
 ### Print Settings:
