@@ -56,10 +56,10 @@ Support Horizontal Expansion: 0.8 mm
 Build Plate Adhesion Type: None  
 
 ### Notes:
-- Lens bracket width was wrong; should have measured before printing. This was really not very smart on my part tbh, but its good to get a print out and see what needs fixed / what works.
-- From eyeballing it, looks like the height of the light mount needs to be 1.5cm taller for the led to be vertically centered in the lens
-- Rigidity is really good with these settings. Triangle stronk. Will try 10% infill instead of 100%; the arms / important parts of the mount would still be solid because of the high wall count but the riser block can be hollow I think
-- Adhesion was fine. I usually use rafts for everything, but because of the size I couldn't fit it onto the build plate, and I was worried the lack of adhesion support would be an issue. All good, so good.
+- Lens bracket width was wrong; should have measured in CAD before printing. Oops.
+- Light mount moved up 15mm to properly center led in the lens
+- Rigidity is good. Trying 10% infill next print to save on time; struts + mount points will still be solid b/c of the high wall count, so should be ok.
+- Adhesion is good. Couldn't fit a raft b/c of the size, and was concerned. All good though, so good.
 
 ### Changes / Updates for Next Print:
 - Lens Bracked width fixed (140mm now, as it should be)
