@@ -4,6 +4,11 @@
     <img src="images/feb15.png" alt="Image 1" style="height: 200px; margin-right: 10px;">
 </div>
 
+### Changes:
+- Lens Bracked width fixed (140mm now, as it should be)
+- Light mount height offset increased from 0 to 15mm
+- Infill Density changed from 100% to 10%
+
 ### Print Settings:
 Layer Height: 0.12 mm  
 Wall Thickness: 1.2 mm  
@@ -25,11 +30,6 @@ Support Placement: Everywhere
 Support Overhang Angle: 59.0 Deg.  
 Support Horizontal Expansion: 0.8 mm  
 Build Plate Adhesion Type: None 
-
-### Changes:
-- Lens Bracked width fixed (140mm now, as it should be)
-- Light mount height offset increased from 0 to 15mm
-- Infill Density changed from 100% to 10%
 
 ## 2-14:
 
