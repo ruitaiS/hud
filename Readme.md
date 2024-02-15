@@ -1,7 +1,9 @@
 ## 2-14:
 
-![](images/feb14.jpg)
-![](images/feb14-2.jpg)
+<div style="display: inline-block;">
+    <img src="images/feb14.jpg" alt="Image 1" style="margin-right: 10px;">
+    <img src="images/feb14-2.jpg" alt="Image 2">
+</div>
 
 ### Print Settings:
 Layer Height: 0.12 mm  
@@ -26,7 +28,7 @@ Support Horizontal Expansion: 0.8 mm
 Build Plate Adhesion Type: None  
 
 ### Notes:
-- Lens bracked width was wrong; should have measured before printing. This was really not very smart on my part tbh, but its good to get a print out and see what needs fixed / what works.
+- Lens bracket width was wrong; should have measured before printing. This was really not very smart on my part tbh, but its good to get a print out and see what needs fixed / what works.
 - From eyeballing it, looks like the height of the light mount needs to be 1.5cm taller for the led to be vertically centered in the lens
 - Rigidity is really good with these settings. Triangle stronk. Will try 10% infill instead of 100%; the arms / important parts of the mount would still be solid because of the high wall count but the riser block can be hollow I think
 - Adhesion was fine. I usually use rafts for everything, but because of the size I couldn't fit it onto the build plate, and I was worried the lack of adhesion support would be an issue. All good, so good.
