@@ -1,8 +1,10 @@
 ## 2-15:
 
 <div style="display: inline-block;">
-    <img src="images/feb14.jpg" alt="Image 1" style="height: 200px; margin-right: 10px;">
+    <img src="images/feb15.jpg" alt="Image 1" style="height: 200px; margin-right: 10px;">
+    <!--
     <img src="images/feb14-2.jpg" alt="Image 2" style="height: 200px;">
+    -->
 </div>
 
 ### Print Settings:
