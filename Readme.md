@@ -1,6 +1,7 @@
 2-14:
 
-![Alt text](./images/feb14 failed print.jpg?raw=true "Title")
+![Example Image](images/combined.png)
+
 
 Layer Height: 0.12 mm
 Wall Thickness: 1.2 mm
