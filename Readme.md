@@ -3,26 +3,26 @@
 ![Example Image](images/combined.png)
 
 
-Layer Height: 0.12 mm
-Wall Thickness: 1.2 mm
-Wall Line Count: 8
-Horizontal Expansion: 0.0 mm
-Top/Bottom Thickness: 0.84 mm
-Top Thickness: 0.84 mm
-Top Layers: 7
-Bottom Thickness: 0.84 mm
-Bottom Layers: 7
-Infill Density: 100%
-Infill Pattern: Gyroid
-Printing Temperature: 220.0 C
-Build Plate Temperature: 60.0 C
-Print Speed 45.0 mm/s
-Fan Speed 100%
-Generate Support: True
-Support Placement: Everywhere
-Support Overhang Angle: 59.0 Deg.
-Support Horizontal Expansion: 0.8 mm
-Build Plate Adhesion Type: None
+Layer Height: 0.12 mm  
+Wall Thickness: 1.2 mm  
+Wall Line Count: 8  
+Horizontal Expansion: 0.0 mm  
+Top/Bottom Thickness: 0.84 mm  
+Top Thickness: 0.84 mm  
+Top Layers: 7  
+Bottom Thickness: 0.84 mm  
+Bottom Layers: 7  
+Infill Density: 100%  
+Infill Pattern: Gyroid  
+Printing Temperature: 220.0 C  
+Build Plate Temperature: 60.0 C  
+Print Speed 45.0 mm/s  
+Fan Speed 100%  
+Generate Support: True  
+Support Placement: Everywhere  
+Support Overhang Angle: 59.0 Deg.  
+Support Horizontal Expansion: 0.8 mm  
+Build Plate Adhesion Type: None  
 
 - Lens bracked width was wrong; should have measured before printing. This was really not very smart on my part tbh, but its good to get a print out and see what needs fixed / what works.
 - From eyeballing it, looks like the height of the light mount needs to be 1.5cm taller for the led to be vertically centered in the lens
