@@ -3,7 +3,11 @@
 <div style="display: inline-block;">
     <img src="images/feb15.png" alt="Image 1" style="height: 200px; margin-right: 10px;">
     <img src="images/IMG_6700.gif" alt="Image 2" style="height: 200px;">
+    <img src="images/IMG_6699.jpg" alt="Image 2" style="height: 200px;">
 </div>
+
+### Notes:
+Nice. Bracket fits, and I think the focal length is roughly correct. I think that's what it means when the LED stays in focus as I move it back and forth; tbh I don't understand optics super well. I think the projected light pattern is caused by the mirrors in the LED housing bouncing the light at weird angles to the collimator lens (you can see the square LED itself in the center, surrounded by a halo), so next steps will be to take that off and design some way to make finer adjustments for focal length.
 
 ### Changes:
 - Lens bracket width fixed
