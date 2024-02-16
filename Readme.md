@@ -7,7 +7,7 @@
 ### Changes:
 - Lens bracket width fixed
 - Light mount height offset increased from 0 to 15mm
-- Infill Density changed from 100% to 10%
+- Infill Density reduced from 100% to 10%
 
 ### Print Settings:
 Layer Height: 0.12 mm  
