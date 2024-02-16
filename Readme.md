@@ -39,7 +39,7 @@ Build Plate Adhesion Type: None
 </div>
 
 ### Notes:
-I forgot to check the lens bracket width before printing it, so it didn't actually fit. Fixed it now, but it was kind of a foolish oversight. It was good to at least be able to print it out and see what works and whad needs fixed. The light mount was 15mm low after checking with a ruler; I'd originally calculated it by doing the height minus half the radius of the housing, but it was easier to get a more accurate reading off the final print. The rigidity is really good; triangles are really strong. Next print I'll try 10% infill; the struts and mounting points will still be solid because of the high wall count, but it'll save some time/material not filling in the bigger blocks. Build plate adhesion was fine; I was concerned because I couldn't fit a raft due to size constraints, but it turned out okay, so great.
+I forgot to check the lens bracket width before printing it, so it didn't actually fit. Fixed it now, but it was kind of a foolish oversight. It was good to at least be able to print it out and see what works and whad needs fixed. The light mount was 15mm low after checking with a ruler; I'd originally calculated it by doing the height minus half the diameter of the housing, but it was easier to get a more accurate reading off the final print. The rigidity is really good; triangles are really strong. Next print I'll try 10% infill; the struts and mounting points will still be solid because of the high wall count, but it'll save some time/material not filling in the bigger blocks. Build plate adhesion was fine; I was concerned because I couldn't fit a raft due to size constraints, but it turned out okay, so great.
 
 ### Print Settings:
 Layer Height: 0.12 mm  
